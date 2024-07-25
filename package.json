@@ -1,0 +1,16 @@
+{
+  "name": "amdb-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "rajarshi samaddar",
+  "license": "MIT",
+  "description": "this is the apna movie database telegram bot by rajarshi samaddar",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
